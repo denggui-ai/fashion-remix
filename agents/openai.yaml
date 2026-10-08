@@ -1,0 +1,7 @@
+name: "fashion-remix"
+tags:
+  - "fashion"
+interface:
+  display_name: "时尚重塑"
+  short_description: "经典角色时尚重塑：给创意方向、直接拍一张、修改真实底图或恢复旧版"
+  default_prompt: "使用 $fashion-remix 为沙僧策划三个原创时尚摄影方向，给出创意简报和提示词，先不生图。"
