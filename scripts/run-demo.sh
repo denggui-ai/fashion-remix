@@ -2,8 +2,7 @@
 set -eu
 
 SCRIPT_DIR=$(CDPATH= cd -- "$(dirname -- "$0")" && pwd)
-SKILL_PARENT=$(CDPATH= cd -- "$SCRIPT_DIR/../.." && pwd)
-SKILL_DIR="$SKILL_PARENT/fashion-remix"
+SKILL_DIR=$(CDPATH= cd -- "$SCRIPT_DIR/.." && pwd)
 DEMO_FILE="$SKILL_DIR/examples/demo-sha-seng.md"
 
 usage() {

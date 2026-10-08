@@ -8,11 +8,11 @@
 |`fashion-remix/.gitignore`|是|4|忽略系统文件、缓存、日志与环境文件|完整|
 |`fashion-remix/CHECKLIST.md`|是|48|合并后24文件、实际行数、验证范围和边界|完整|
 |`fashion-remix/LICENSE`|是|21|MIT许可全文及指定作者署名|完整|
-|`fashion-remix/README.md`|是|122|三模式用法、固定作者安装地址、工具依赖和旧版归档范围|完整|
+|`fashion-remix/README.md`|是|123|三模式用法、固定作者安装地址、工具依赖和旧版归档范围|完整|
 |`fashion-remix/SKILL.md`|是|185|三模式分流、意图优先级、完成条件、3张拓扑和10条元规则|完整|
 |`fashion-remix/agents/openai.yaml`|是|7|时尚重塑名称、fashion标签和三模式UI描述|完整|
 |`fashion-remix/assets/.gitkeep`|是|0|保留空素材目录|完整|
-|`fashion-remix/examples/demo-sha-seng.md`|是|91|三套完整时尚老沙方案、提示词与编号续改|完整|
+|`fashion-remix/examples/demo-sha-seng.md`|是|93|三套完整时尚老沙方案、提示词与编号续改|完整|
 |`fashion-remix/references/audiences/chinese-general.md`|是|29|华人普通受众的识别假设和传播表达|完整|
 |`fashion-remix/references/characters/README.md`|是|28|添加角色方法与角色目录|完整|
 |`fashion-remix/references/characters/_template.md`|是|50|新角色十字段、依据与候选锚点模板|完整|
@@ -28,7 +28,7 @@
 |`fashion-remix/references/director/input-and-qc.md`|是|83|输入职责、检查、授权次数及完整交付状态|完整|
 |`fashion-remix/references/director/photography-methods.md`|是|131|15类摄影关系及已定命题的摄影实现|完整|
 |`fashion-remix/scripts/inspect_task.py`|是|205|原样迁入的只读任务、资产与父版检查脚本|完整|
-|`fashion-remix/scripts/run-demo.sh`|是|53|实际读取示例、选择提示词与用法说明|完整|
+|`fashion-remix/scripts/run-demo.sh`|是|52|实际读取示例、选择提示词与用法说明|完整|
 
 ## 重点核对
 
@@ -39,10 +39,10 @@
 - [x] 相对引用与脚本深度已更新；全部本地链接须经交付核验。
 - [x] README用户名为denggui-ai；MIT署名为denggui-ai (饭饭是条狗子)。
 - [x] 原示例和恢复脚本均保留；开发验证证据另存，不随公开运行包分发；已验证范围见README。
-- [x] 原图库与旧源8文件保留；旧安装7文件完整归档，新安装不在本次发布中更新。
+- [x] 原图库与旧源8文件保留；旧安装7文件完整归档；本次v1.1.1仅发布24文件源码与标签。
 
 ## 完成范围
 
-“完整”指文件与定义齐备；路径、结构、示例和原资产读取按实际核验报告，不代表真实生图、隐式触发、公众辨识或传播效果已验证。
-发布目标为denggui-ai/fashion-remix的v1.1.0源码与标签；本机安装和第一提示词单张生成已验证，隐式触发检查2/3命中本Skill，详细限制见README。
+“完整”指文件与定义齐备；路径、结构、示例和原资产读取按实际核验报告，不将单次实测扩大为稳定成功、公众辨识或传播效果。
+本清单对应denggui-ai/fashion-remix的v1.1.1；包含示例目录修复与补测说明，保留v1.1.0历史。原独立新会话检查2/3命中；同会话补测进入修改、父版正确且背景达成，主体细节有重绘，保留IMAGES_PARTIAL。详细范围见README。
 52张图库保留项目原位，不属于本包；旧安装已归档至隐藏父目录，本包不附带私人素材或开发日志。
