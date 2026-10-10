@@ -18,8 +18,8 @@
 |`fashion-remix/references/characters/_template.md`|是|78|十字段、候选锚点、默认SABC空表、三层调用及识别卡填法|已具备|
 |`fashion-remix/references/characters/sha-seng.md`|是|91|十字段、默认身份形貌层、识别卡（已定妆）、两套带范围分级、混淆与转译|已具备|
 |`fashion-remix/references/characters/wu-kong.md`|是|86|悟空：默认原著描述的三层资料、分级、混淆与站内来源差异；识别卡（2026-10-10 头脸定妆表 R7 锁定，全身表与成品待补）|已具备|
-|`fashion-remix/references/characters/zhu-ba-jie.md`|是|82|八戒：定妆基线 R4-3（父版 R4）的三层资料、识别卡（含不借项）、分级与混淆|已具备|
-|`fashion-remix/references/characters/tang-seng.md`|是|81|唐僧：定妆基线 R1 的三层资料、识别卡、分级与混淆|已具备|
+|`fashion-remix/references/characters/zhu-ba-jie.md`|是|83|八戒：定妆基线 R4-3（父版 R4）的三层资料、识别卡（含不借项）、分级与混淆|已具备|
+|`fashion-remix/references/characters/tang-seng.md`|是|82|唐僧：定妆基线 R1 的三层资料、识别卡、分级与混淆|已具备|
 |`fashion-remix/references/core/anchor-grading.md`|是|41|默认与本轮SABC、调整权限及冲突顺序|已具备|
 |`fashion-remix/references/core/audit.md`|是|46|四视角反偏见审计与确定性说明|已具备|
 |`fashion-remix/references/core/axes.md`|是|35|八轴、偏好排序、可选权重与六触发器|已具备|

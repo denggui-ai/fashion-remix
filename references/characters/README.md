@@ -20,8 +20,8 @@
 |---|---|---|
 |沙僧|[sha-seng.md](sha-seng.md)|默认原著描述（卷云额箍、卷发络腮胡为站内常见造型；86 版线索可选），最终提示词不写演员名；**已定妆**：身份基线 outputs/fashion-remix/20261009-shaseng-life-probe R1-2／R2／R3；衣装模式＝标识固定、衣装随风格|
 |悟空|[wu-kong.md](wu-kong.md)|**头脸已定妆**：身份基线 outputs/fashion-remix/20261010-wukong-sheet R7（综合路线：猴骨相＋86 妆面符号＋人的眼神，Owner 2026-10-10 “同意r7”）；全身衣装道具表 R10 取经装／R11 大圣装已通过；成品验证 20261010-wukong-verify R5（F3 大圣装）Owner 接受，**定妆门已过**；衣装模式每次进场景前先问 Owner；最终提示词不写演员名|
-|八戒|[zhu-ba-jie.md](zhu-ba-jie.md)|**已定妆**：身份基线 outputs/fashion-remix/20261009-three-routes R4-3（父版 R4，2026-10-10 两耳局部编辑后接受；猪鼻为身份本体）；衣装模式＝衣装跟人走；低清剧照只作耳、鼻头、帽形结构参考，不借脸|
-|唐僧|[tang-seng.md](tang-seng.md)|**已定妆**：身份基线 outputs/fashion-remix/20261009-three-routes R1；衣装模式＝衣装跟人走；不再用剧照借面貌|
+|八戒|[zhu-ba-jie.md](zhu-ba-jie.md)|**已定妆**（2026-10-10 补两页定妆表 20261010-bajie-sheet R1/R2＋成品 20261010-bajie-verify）：身份基线 outputs/fashion-remix/20261009-three-routes R4-3（父版 R4，2026-10-10 两耳局部编辑后接受；猪鼻为身份本体）；衣装模式＝衣装跟人走；低清剧照只作耳、鼻头、帽形结构参考，不借脸|
+|唐僧|[tang-seng.md](tang-seng.md)|**已定妆**（2026-10-10 补两页定妆表 20261010-tangseng-sheet R1/R2＋成品 20261010-tangseng-verify R1）：身份基线 outputs/fashion-remix/20261009-three-routes R1；衣装模式＝衣装跟人走；不再用剧照借面貌|
 
 ## 定妆门与识别卡
 
