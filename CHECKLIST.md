@@ -14,9 +14,9 @@
 |`fashion-remix/assets/.gitkeep`|是|0|保留空素材目录|已具备|
 |`fashion-remix/examples/demo-sha-seng.md`|是|125|三套方案、原提示词、Q1/Q2状态与编号续改|已具备|
 |`fashion-remix/references/audiences/chinese-general.md`|是|40|受众假设、角色保留建议与提示词落实|已具备|
-|`fashion-remix/references/characters/README.md`|是|42|添加角色方法、四人角色目录、定妆门与识别卡|已具备|
+|`fashion-remix/references/characters/README.md`|是|46|添加角色方法、四人角色目录、定妆门与识别卡|已具备|
 |`fashion-remix/references/characters/_template.md`|是|78|十字段、候选锚点、默认SABC空表、三层调用及识别卡填法|已具备|
-|`fashion-remix/references/characters/sha-seng.md`|是|91|十字段、默认身份形貌层、识别卡（已定妆）、两套带范围分级、混淆与转译|已具备|
+|`fashion-remix/references/characters/sha-seng.md`|是|92|十字段、默认身份形貌层、识别卡（已定妆）、两套带范围分级、混淆与转译|已具备|
 |`fashion-remix/references/characters/wu-kong.md`|是|86|悟空：默认原著描述的三层资料、分级、混淆与站内来源差异；识别卡（2026-10-10 头脸定妆表 R7 锁定，全身表与成品待补）|已具备|
 |`fashion-remix/references/characters/zhu-ba-jie.md`|是|83|八戒：定妆基线 R4-3（父版 R4）的三层资料、识别卡（含不借项）、分级与混淆|已具备|
 |`fashion-remix/references/characters/tang-seng.md`|是|82|唐僧：定妆基线 R1 的三层资料、识别卡、分级与混淆|已具备|
