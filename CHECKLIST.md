@@ -8,7 +8,7 @@
 |`fashion-remix/.gitignore`|是|4|忽略系统文件、缓存、日志与环境文件|已具备|
 |`fashion-remix/CHECKLIST.md`|是|61|28文件、实际行数、验证范围和边界|已具备|
 |`fashion-remix/LICENSE`|是|21|MIT许可全文及指定作者署名|已具备|
-|`fashion-remix/README.md`|是|145|三模式与风格名用法、固定作者安装地址、工具依赖和旧版归档范围|已具备|
+|`fashion-remix/README.md`|是|149|三模式与风格名用法、固定作者安装地址、工具依赖和旧版归档范围|已具备|
 |`fashion-remix/SKILL.md`|是|189|三模式分流、风格模板路由、意图优先级、完成条件、3张拓扑（含风格入口节点）和10条元规则|已具备|
 |`fashion-remix/agents/openai.yaml`|是|7|时尚重塑名称、fashion标签和三模式UI描述|已具备|
 |`fashion-remix/assets/.gitkeep`|是|0|保留空素材目录|已具备|
