@@ -48,7 +48,7 @@
 ```
 
 - intent：browse／plan／generate／edit／restore／export／audit。authorization.action只记本次仍有效的图像动作 none／generate／edit，source保留实际用户要求及必要上下文；limit为本任务累计已获准的提交上限，paused只阻止后续动作。更改请求或许可时另加 history 条目保留原话与时间，不用覆盖账目抹去历史。
-- references.operation：original（自主摄影）、replicate（约定参考复刻）、translate（取用摄影语言）。identity是资产ID或null；photography是资产ID列表。详细借用／保留／可改项与创意摘要可放在requirements对象，不能仅靠模式名代替本次要求。经典画面重构沿用translate或replicate，母题放在photography列表、assets.role中注明用途，原气场、保留项与角色跨界关系写requirements；仅明确要求改写意义时另记该目标；不新增必填schema。
+- references.operation：original（自主摄影）、replicate（约定参考的结构重演）、translate（取用摄影语言）。identity是资产ID或null；photography是资产ID列表。详细借用／保留／可改项与创意摘要可放在requirements对象，不能仅靠模式名代替本次要求。经典画面重构沿用translate或replicate，母题放在photography列表、assets.role中注明用途，原气场、保留项与角色跨界关系写requirements；仅明确要求改写意义时另记该目标；不新增必填schema。
 - questions：`Q1: {"text":"…", "options":{"B":"I1"}}`；question ID不能为空或含冒号，冒号用于命令中的题目/选项分隔。pending_question_id指向当前有效题，回答后置null并记 selected；旧题保留。
 - assets：`I1: {"path":"assets/identity.jpg", "sha256":"实际SHA-256", "role":"identity", "source":"真实来源或用户提供", "availability":"available"}`。路径相对task.json所在目录；available需要实际路径和哈希；missing／thumbnail_only不能充当精确生成输入，未知路径和哈希用null。
 - outputs：`R1: {"asset_id":"O1", "parent_id":null, "accepted_scope":[]}`。修改结果 R1-2 的 parent_id 为 R1；首次生成／导入基线没有父版。accepted_scope仅记录用户实际采用的范围；“好很多”另记feedback，不自动批准身份或整个系列。QC、用户审美和文件存在分别记录。

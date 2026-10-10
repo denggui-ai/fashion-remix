@@ -18,8 +18,8 @@
 
 |角色|文件|范围|
 |---|---|---|
-|沙僧|[sha-seng.md](sha-seng.md)|默认 86 版造型线索（卷云额箍、卷发络腮胡），最终提示词不写演员名；**已定妆**：身份基线 outputs/fashion-remix/20261009-shaseng-life-probe R1-2／R2／R3；衣装模式＝标识固定、衣装随风格|
-|悟空|[wu-kong.md](wu-kong.md)|默认 86 版妆面造型线索；最终提示词不写演员名；**未定妆**，先走定妆门|
+|沙僧|[sha-seng.md](sha-seng.md)|默认原著描述（卷云额箍、卷发络腮胡为站内常见造型；86 版线索可选），最终提示词不写演员名；**已定妆**：身份基线 outputs/fashion-remix/20261009-shaseng-life-probe R1-2／R2／R3；衣装模式＝标识固定、衣装随风格|
+|悟空|[wu-kong.md](wu-kong.md)|默认原著描述（写实猴面），86 版妆面线索可选；最终提示词不写演员名；**未定妆**，先走定妆门|
 |八戒|[zhu-ba-jie.md](zhu-ba-jie.md)|**已定妆**：身份基线 outputs/fashion-remix/20261009-three-routes R4-3（父版 R4，2026-10-10 两耳局部编辑后接受；猪鼻为身份本体）；衣装模式＝衣装跟人走；低清剧照只作耳、鼻头、帽形结构参考，不借脸|
 |唐僧|[tang-seng.md](tang-seng.md)|**已定妆**：身份基线 outputs/fashion-remix/20261009-three-routes R1；衣装模式＝衣装跟人走；不再用剧照借面貌|
 

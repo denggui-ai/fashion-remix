@@ -8,7 +8,7 @@
 |`fashion-remix/.gitignore`|是|4|忽略系统文件、缓存、日志与环境文件|已具备|
 |`fashion-remix/CHECKLIST.md`|是|61|28文件、实际行数、验证范围和边界|已具备|
 |`fashion-remix/LICENSE`|是|21|MIT许可全文及指定作者署名|已具备|
-|`fashion-remix/README.md`|是|149|三模式与风格名用法、固定作者安装地址、工具依赖和旧版归档范围|已具备|
+|`fashion-remix/README.md`|是|156|三模式与风格名用法、固定作者安装地址、工具依赖和旧版归档范围|已具备|
 |`fashion-remix/SKILL.md`|是|189|三模式分流、风格模板路由、意图优先级、完成条件、3张拓扑（含风格入口节点）和10条元规则|已具备|
 |`fashion-remix/agents/openai.yaml`|是|7|时尚重塑名称、fashion标签和三模式UI描述|已具备|
 |`fashion-remix/assets/.gitkeep`|是|0|保留空素材目录|已具备|
@@ -17,17 +17,17 @@
 |`fashion-remix/references/characters/README.md`|是|42|添加角色方法、四人角色目录、定妆门与识别卡|已具备|
 |`fashion-remix/references/characters/_template.md`|是|78|十字段、候选锚点、默认SABC空表、三层调用及识别卡填法|已具备|
 |`fashion-remix/references/characters/sha-seng.md`|是|91|十字段、默认身份形貌层、识别卡（已定妆）、两套带范围分级、混淆与转译|已具备|
-|`fashion-remix/references/characters/wu-kong.md`|是|75|悟空：默认86版造型线索的三层资料、分级、混淆与站内来源差异|已具备|
+|`fashion-remix/references/characters/wu-kong.md`|是|75|悟空：默认原著描述的三层资料、分级、混淆与站内来源差异|已具备|
 |`fashion-remix/references/characters/zhu-ba-jie.md`|是|82|八戒：定妆基线 R4-3（父版 R4）的三层资料、识别卡（含不借项）、分级与混淆|已具备|
 |`fashion-remix/references/characters/tang-seng.md`|是|81|唐僧：定妆基线 R1 的三层资料、识别卡、分级与混淆|已具备|
 |`fashion-remix/references/core/anchor-grading.md`|是|41|默认与本轮SABC、调整权限及冲突顺序|已具备|
 |`fashion-remix/references/core/audit.md`|是|46|四视角反偏见审计与确定性说明|已具备|
 |`fashion-remix/references/core/axes.md`|是|35|八轴、偏好排序、可选权重与六触发器|已具备|
-|`fashion-remix/references/core/compile.md`|是|73|方案卡（含方向、风格、看图注意）、正面限定、提示词命名边界与同步修订|已具备|
+|`fashion-remix/references/core/compile.md`|是|74|方案卡（含方向、风格、看图注意）、正面限定、提示词命名边界与同步修订|已具备|
 |`fashion-remix/references/core/deconstruct.md`|是|32|十字段、沙僧／悟空对照与未知处理|已具备|
 |`fashion-remix/references/core/systems.md`|是|51|26个关系入口与碰撞公式|已具备|
 |`fashion-remix/references/director/conversation-state.md`|是|108|共享任务、文字快照、图片父版及真实资产恢复|已具备|
-|`fashion-remix/references/director/creative-direction.md`|是|68|承接已选方案与风格模板、择一后的经典画面与多人摄影执行|已具备|
+|`fashion-remix/references/director/creative-direction.md`|是|70|承接已选方案与风格模板、择一后的经典画面与多人摄影执行|已具备|
 |`fashion-remix/references/director/input-and-qc.md`|是|99|输入职责、检查、授权次数及完整交付状态|已具备|
 |`fashion-remix/references/director/photography-methods.md`|是|135|15类摄影关系及已定命题的摄影实现|已具备|
 |`fashion-remix/references/styles/README.md`|是|219|六套模板（四首选两候选）、v2 验证状态、衣装模式、四人配置、拓展候选、定妆门与系列编排|已具备|
